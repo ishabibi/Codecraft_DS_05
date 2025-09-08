@@ -1,4 +1,4 @@
-# Codecraft_DS_05
+
 🚦 Traffic Accident Data Analysis - CODECRAFT_DS_05
 This project analyzes a traffic accident dataset to uncover patterns and trends related to accident occurrence. The notebook performs data cleaning, exploratory data analysis (EDA), and visualization using Python libraries.
 ________________________________________
